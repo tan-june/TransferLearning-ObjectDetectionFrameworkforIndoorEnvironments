@@ -1,4 +1,5 @@
-# TransferLearning-ObjectDetectionFrameworkforIndoorEnvironments
+# Transfer Learning Object Detection Framework for IndoorEnvironments
+
 Research study conducted using ResNet50 based models for Transfer Learning.
 
 **Layman Abstract**: With the growing interest in creating self-driving robots, it's important to teach them how to see and recognize objects like humans do. However, current object detection technology is not perfect and can make mistakes when it comes to things like color, texture, and view. To improve this, researchers developed a new dataset that includes different types of objects in various indoor environments. They used this dataset to train a computer program called ResNet50 to better detect and categorize objects like doors, chairs, and tables. When they tested the program, it was more accurate than other object detection systems currently in use. This new method can be used to train future object detection technology and improve its accuracy.
